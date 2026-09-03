@@ -1,0 +1,16 @@
+{
+  "name": "Example athlete",
+  "weight_kg": 75.0,
+  "max_hr": 190,
+  "threshold_hr": 172,
+  "ftp_history": [
+    {"from": "2020-01-01", "ftp": 250}
+  ],
+  "power_goals": {
+    "60": 500,
+    "300": 360,
+    "1200": 280
+  },
+  "comparison_window_days": 56,
+  "minimum_efforts_per_window": 3
+}
